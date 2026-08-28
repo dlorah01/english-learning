@@ -1,0 +1,42 @@
+# Site settings
+title: "English for Mom — Curso personalizado de inglés"
+description: >-
+  Programa de inglés personal, progresivo y sistemático para una hablante nativa
+  de español, desde cero (A1) hasta un dominio excepcional (C1/C2). Avanza en
+  fases → ciclos → unidades; cada unidad se apoya en las anteriores y usa
+  técnicas de aprendizaje basadas en evidencia (recuperación activa, repaso
+  espaciado, práctica intercalada y transferencia).
+lang: es
+
+# Theme — just-the-docs usa el front matter nav_order / title / layout
+# presente en index.md, roadmap.md y cada unit-XXX.md.
+remote_theme: just-the-docs/just-the-docs
+
+# Markdown processing (GitHub Pages default, explícito para claridad)
+markdown: kramdown
+kramdown:
+  input: GFM              # GitHub-Flavored Markdown: tablas, bloques de código, etc.
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# just-the-docs — navegación y búsqueda
+nav_sort: ascending        # ordena por nav_order (0 = índice, luego roadmap, luego unidades 1, 2, 3...)
+search_enabled: true
+heading_anchors: true
+
+# Enlaces auxiliares en la barra de navegación superior
+aux_links:
+  "Ver en GitHub":
+    - "https://github.com/dlorah01/english-learning"
+
+# Pie de página
+footer_content: "Curso de inglés personalizado — se actualiza después de cada unidad."
+
+# Excluir archivos que no son contenido del build de Jekyll
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-remote-theme
