@@ -6,23 +6,27 @@ title: Inicio
 
 Bienvenida a tu curso de inglés. Este repositorio es tu programa completo, personal y progresivo para aprender inglés desde cero hasta un dominio excepcional.
 
+**🎉 Este curso ha sido completado — las 80 unidades, desde A1 hasta C1/C2, ya están disponibles. 🎉**
+
 ## 🎯 ¿Qué es esto?
 
-Un curso diseñado específicamente para ti, que avanza paso a paso, sin prisa, repasando lo aprendido y construyendo sobre lo anterior. No es una lista de reglas para memorizar: es un sistema vivo que va creciendo unidad por unidad.
+Un curso diseñado específicamente para ti, que avanza paso a paso, sin prisa, repasando lo aprendido y construyendo sobre lo anterior. No es una lista de reglas para memorizar: es un sistema vivo que fue creciendo unidad por unidad hasta completarse.
 
 ## 🚀 ¿Dónde empiezo?
 
-Empieza aquí 👉 **[Unidad 001 — Saludos y el verbo *to be*](units/phase-01/cycle-01/unit-001.md)**
+Si es tu primera vez aquí, empieza en **[Unidad 001 — Saludos y el verbo *to be*](units/phase-01/cycle-01/unit-001.md)**.
 
-Cada unidad incluye explicación, ejemplos, vocabulario, práctica y soluciones. Tómate tu tiempo — no hay prisa.
+Si ya avanzaste por el curso y quieres revisar el cierre, ve directamente a **[Unidad 080 — Repaso integrador final](units/phase-05/cycle-20/unit-080.md)**.
+
+Cada unidad incluye explicación, ejemplos, vocabulario, práctica y soluciones. Tómate tu tiempo — no hay prisa, incluso para repasar.
 
 ## 📊 Progreso actual
 
-- **Fase actual:** Fase 3 — B1 · Fases 1 y 2 completadas 🎉
-- **Ciclo actual:** Ciclo 10 — Present perfect continuous (por comenzar) · Ciclo 9 completado ✅
-- **Unidades generadas:** 36 de muchas (el curso crece progresivamente)
-- **Última unidad generada:** [unit-036](units/phase-03/cycle-09/unit-036.md)
-- **Siguiente unidad:** unit-037 (primera del Ciclo 10, aún no generada)
+- **Fase actual:** Curso completo — Fases 1, 2, 3, 4 y 5 (A1 a C1/C2) completadas 🎉🎉🎉
+- **Ciclo actual:** Ciclo 20 completado — último ciclo del curso ✅
+- **Unidades generadas:** 80 de 80 — ¡curso completo!
+- **Última unidad generada:** [unit-080](units/phase-05/cycle-20/unit-080.md) — repaso integrador final de todo el programa
+- **Siguiente unidad:** ninguna pendiente. El curso, tal como fue planificado, ha concluido.
 
 Consulta el mapa curricular completo en **[roadmap.md](roadmap.md)**.
 
@@ -117,8 +121,108 @@ Consulta el mapa curricular completo en **[roadmap.md](roadmap.md)**.
 
 #### Ciclo 10 — Present perfect continuous
 
-37. ⏳ Unidad 037 — Present perfect continuous: formación y uso *(pendiente)*
-38. ⏳ Unidad 038 — Present perfect continuous vs. present perfect simple *(pendiente)*
+37. ✅ [Unidad 037 — Present perfect continuous: formación y uso](units/phase-03/cycle-10/unit-037.md)
+38. ✅ [Unidad 038 — Present perfect continuous vs. present perfect simple](units/phase-03/cycle-10/unit-038.md)
+39. ✅ [Unidad 039 — Verbos que no se usan en forma continua (repaso ampliado)](units/phase-03/cycle-10/unit-039.md)
+40. ✅ [Unidad 040 — Repaso del Ciclo 10 + vocabulario de rutinas y proyectos](units/phase-03/cycle-10/unit-040.md)
+
+**Ciclo 10 completo ✅**
+
+#### Ciclo 11 — Condicionales (0, 1, 2)
+
+41. ✅ [Unidad 041 — Zero conditional (hechos generales)](units/phase-03/cycle-11/unit-041.md)
+42. ✅ [Unidad 042 — First conditional (condiciones reales futuras)](units/phase-03/cycle-11/unit-042.md)
+43. ✅ [Unidad 043 — Second conditional (situaciones hipotéticas) + "If I were you"](units/phase-03/cycle-11/unit-043.md)
+44. ✅ [Unidad 044 — Repaso del Ciclo 11 + vocabulario de decisiones](units/phase-03/cycle-11/unit-044.md)
+
+**Ciclo 11 completo ✅**
+
+#### Ciclo 12 — Reported speech, relative clauses y repaso integrador B1
+
+45. ✅ [Unidad 045 — Reported speech básico (afirmaciones)](units/phase-03/cycle-12/unit-045.md)
+46. ✅ [Unidad 046 — Relative clauses (who, which, that, where)](units/phase-03/cycle-12/unit-046.md)
+47. ✅ [Unidad 047 — Phrasal verbs y collocations frecuentes](units/phase-03/cycle-12/unit-047.md)
+48. ✅ [Unidad 048 — Repaso integrador de Fase 3 + evaluación de cierre B1](units/phase-03/cycle-12/unit-048.md)
+
+**🎉 Fase 3 (B1) completa ✅**
+
+### Fase 4 — B2
+
+#### Ciclo 13 — Voz pasiva y registro
+
+49. ✅ [Unidad 049 — Voz pasiva: presente y pasado simple](units/phase-04/cycle-13/unit-049.md)
+50. ✅ [Unidad 050 — Voz pasiva: otros tiempos verbales + "by"](units/phase-04/cycle-13/unit-050.md)
+51. ✅ [Unidad 051 — Registro formal vs. informal](units/phase-04/cycle-13/unit-051.md)
+52. ✅ [Unidad 052 — Repaso del Ciclo 13 + vocabulario profesional](units/phase-04/cycle-13/unit-052.md)
+
+**Ciclo 13 completo ✅**
+
+#### Ciclo 14 — Third conditional y past perfect
+
+53. ✅ [Unidad 053 — Past perfect: formación y uso](units/phase-04/cycle-14/unit-053.md)
+54. ✅ [Unidad 054 — Third conditional (hipótesis sobre el pasado)](units/phase-04/cycle-14/unit-054.md)
+55. ✅ [Unidad 055 — Mixed conditionals (introducción)](units/phase-04/cycle-14/unit-055.md)
+56. ✅ [Unidad 056 — Repaso del Ciclo 14 + vocabulario de arrepentimientos y reflexión](units/phase-04/cycle-14/unit-056.md)
+
+**Ciclo 14 completo ✅**
+
+#### Ciclo 15 — Discourse markers y argumentación
+
+57. ✅ [Unidad 057 — Discourse markers de contraste y adición (however, moreover, in contrast)](units/phase-04/cycle-15/unit-057.md)
+58. ✅ [Unidad 058 — Discourse markers de causa/efecto y conclusión (therefore, as a result, in conclusion)](units/phase-04/cycle-15/unit-058.md)
+59. ✅ [Unidad 059 — Hedging y matices (it seems, tend to, sort of)](units/phase-04/cycle-15/unit-059.md)
+60. ✅ [Unidad 060 — Repaso del Ciclo 15 + debate estructurado](units/phase-04/cycle-15/unit-060.md)
+
+**Ciclo 15 completo ✅**
+
+#### Ciclo 16 — Acentos, vocabulario avanzado y repaso integrador B2
+
+61. ✅ [Unidad 061 — Variedades del inglés (British, American y otros acentos)](units/phase-04/cycle-16/unit-061.md)
+62. ✅ [Unidad 062 — Collocations y phrasal verbs avanzados](units/phase-04/cycle-16/unit-062.md)
+63. ✅ [Unidad 063 — Vocabulario académico y profesional](units/phase-04/cycle-16/unit-063.md)
+64. ✅ [Unidad 064 — Repaso integrador de Fase 4 + evaluación de cierre B2](units/phase-04/cycle-16/unit-064.md)
+
+**🎉 Fase 4 (B2) completa ✅**
+
+### Fase 5 — C1/C2
+
+#### Ciclo 17 — Idioms, lenguaje figurado y pragmática
+
+65. ✅ [Unidad 065 — Idioms de uso cotidiano frecuente](units/phase-05/cycle-17/unit-065.md)
+66. ✅ [Unidad 066 — Lenguaje figurado: metáforas y expresiones idiomáticas de emoción](units/phase-05/cycle-17/unit-066.md)
+67. ✅ [Unidad 067 — Pragmática: cortesía, peticiones indirectas y "face-saving"](units/phase-05/cycle-17/unit-067.md)
+68. ✅ [Unidad 068 — Repaso del Ciclo 17 + vocabulario cultural](units/phase-05/cycle-17/unit-068.md)
+
+**Ciclo 17 completo ✅**
+
+#### Ciclo 18 — Ironía, humor y understatement
+
+69. ✅ [Unidad 069 — Ironía y sarcasmo: cómo se marcan en inglés](units/phase-05/cycle-18/unit-069.md)
+70. ✅ [Unidad 070 — Understatement y eufemismos](units/phase-05/cycle-18/unit-070.md)
+71. ✅ [Unidad 071 — Humor: juegos de palabras y humor situacional](units/phase-05/cycle-18/unit-071.md)
+72. ✅ [Unidad 072 — Repaso del Ciclo 18 + análisis de humor auténtico](units/phase-05/cycle-18/unit-072.md)
+
+**Ciclo 18 completo ✅**
+
+#### Ciclo 19 — Inglés académico y profesional avanzado
+
+73. ✅ [Unidad 073 — Escritura académica: estructura de ensayos y cohesión avanzada](units/phase-05/cycle-19/unit-073.md)
+74. ✅ [Unidad 074 — Lenguaje de negociación y persuasión profesional](units/phase-05/cycle-19/unit-074.md)
+75. ✅ [Unidad 075 — Presentaciones y discursos formales](units/phase-05/cycle-19/unit-075.md)
+76. ✅ [Unidad 076 — Repaso del Ciclo 19 + simulacro de presentación](units/phase-05/cycle-19/unit-076.md)
+
+**Ciclo 19 completo ✅**
+
+#### Ciclo 20 — Comprensión de habla espontánea y repaso integrador C1/C2 (último ciclo del curso)
+
+77. ✅ [Unidad 077 — Connected speech avanzado: reducciones y habla espontánea](units/phase-05/cycle-20/unit-077.md)
+78. ✅ [Unidad 078 — Comprensión de textos complejos](units/phase-05/cycle-20/unit-078.md)
+79. ✅ [Unidad 079 — Producción sofisticada: matices finales de estilo](units/phase-05/cycle-20/unit-079.md)
+80. ✅ [Unidad 080 — Repaso integrador de Fase 5 + evaluación de dominio excepcional](units/phase-05/cycle-20/unit-080.md)
+
+**🎉 CICLO 20 COMPLETO ✅ — FASE 5 (C1/C2) COMPLETA ✅ — CURSO COMPLETO 🎉**
+
+Con la Unidad 080 se completan las 80 unidades planificadas del curso, desde A1 hasta C1/C2. Este es el cierre del programa tal como fue diseñado originalmente. El roadmap y este índice permanecen disponibles como registro completo del recorrido, y pueden ampliarse en el futuro si se decide continuar con nuevo contenido.
 
 Las unidades futuras se irán añadiendo aquí a medida que se generen. Consulta el roadmap para ver la planificación completa de fases y ciclos siguientes.
 
